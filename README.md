@@ -74,9 +74,7 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
+This project is open source and available under the  gnu gpl 3.0 https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
 
 ## 📫 Contact
 
