@@ -4,13 +4,13 @@ Welcome to the **SingleRSC-Website** repository! This project contains the sourc
 
 ---
 
-## 📝 Overview
+## Overview
 
 This repository powers the official SingleRSC website. The site is designed to be clean, responsive, and easy to update—ideal for showcasing content or serving as a personal or organizational landing page.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **HTML** (57.1%)  
   The website's structure and content are written using HTML, ensuring semantic markup for accessibility and SEO.
@@ -23,7 +23,7 @@ This repository powers the official SingleRSC website. The site is designed to b
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -40,7 +40,7 @@ This repository powers the official SingleRSC website. The site is designed to b
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -51,7 +51,7 @@ This repository powers the official SingleRSC website. The site is designed to b
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 You can host this site on any static hosting provider, such as:
 - GitHub Pages
@@ -61,7 +61,7 @@ You can host this site on any static hosting provider, such as:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -72,11 +72,11 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the  GNU GPL 3.0: https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
 
-## 📫 Contact
+## Contact
 
 For questions, suggestions, or feedback, please open an issue or contact [theKennethy](https://github.com/theKennethy).
 
